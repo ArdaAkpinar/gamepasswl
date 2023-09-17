@@ -13,7 +13,7 @@ local whitelist = {
     "itsh0r",
     "tpsciawain",
     "2525israfil",
-    "EFREWFTEWT" -- giveaway winner
+    "harunisteaq9" -- giveaway winner
 }
 
 if table.find(whitelist, game.Players.LocalPlayer.Name) then
