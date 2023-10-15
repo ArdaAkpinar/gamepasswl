@@ -10,7 +10,7 @@ local whitelist = {
     "31cihasanxd",
     "azemessi3a",
     "Zzz_tps2",
-    "itsh0r",
+    "ARDAEda1",
     "tpsciawain",
     "2525israfil",
     "harunisteaq9" -- giveaway winner
